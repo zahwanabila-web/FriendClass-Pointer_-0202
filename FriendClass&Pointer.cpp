@@ -36,4 +36,7 @@ public:
         cin >> d2;
         return (d1 * d2) / 2;
     }
+    double keliling() {
+        return 4 * sisi;
+    }
 };
