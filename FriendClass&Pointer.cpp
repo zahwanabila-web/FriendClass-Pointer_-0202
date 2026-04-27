@@ -19,5 +19,6 @@ public:
 };
 
 class BelahKetupat {
-    
+private:
+    double sisi;
 };
