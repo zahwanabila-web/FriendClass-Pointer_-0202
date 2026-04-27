@@ -21,4 +21,9 @@ public:
 class BelahKetupat {
 private:
     double sisi;
+
+public:
+    void input() {
+        
+    }
 };
