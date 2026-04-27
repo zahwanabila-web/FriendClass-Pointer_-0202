@@ -1,10 +1,10 @@
 #include <iostream>
 using namespace std;
 class LayangLayang {
-    private:
+private:
     double diagonal1, diagonal2;
 
-    public:
+public:
     void input() {
         cout << "LAYANG-LAYANG" << endl;
         cout << "Diagonal 1: ";
@@ -12,6 +12,8 @@ class LayangLayang {
         cout << "Diagonal 2: ";
         cin >> diagonal2;
     }
-
+    double luas() {
+        return (diagonal1 * diagonal2)/ 2;
+    }
     
 };
