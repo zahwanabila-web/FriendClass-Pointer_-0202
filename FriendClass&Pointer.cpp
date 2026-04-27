@@ -29,6 +29,8 @@ public:
         cin >> sisi;
     }
     double luas() {
-        
+        double d1, d2;
+        cout << "Diagonal 1: ";
+        cin >> d1;
     }
 };
