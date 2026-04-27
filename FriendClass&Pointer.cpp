@@ -32,5 +32,8 @@ public:
         double d1, d2;
         cout << "Diagonal 1: ";
         cin >> d1;
+         cout << "Diagonal 2: ";
+        cin >> d2;
+        return (d1 * d2) / 2;
     }
 };
