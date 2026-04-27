@@ -28,4 +28,7 @@ public:
         cout << "Panjang sisi: ";
         cin >> sisi;
     }
+    double luas() {
+        
+    }
 };
