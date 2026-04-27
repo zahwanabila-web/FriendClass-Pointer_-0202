@@ -15,5 +15,5 @@ public:
     double luas() {
         return (diagonal1 * diagonal2)/ 2;
     }
-    
+    friend double hitungKeliling(LayangLayang);
 };
