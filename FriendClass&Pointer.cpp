@@ -25,6 +25,7 @@ private:
 public:
     void input() {
         cout << "BELAH KETUPAT" << endl;
-       
+        cout << "Panjang sisi: ";
+        cin >> sisi;
     }
 };
