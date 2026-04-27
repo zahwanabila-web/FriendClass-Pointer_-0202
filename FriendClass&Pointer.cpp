@@ -6,6 +6,10 @@ class LayangLayang {
 
     public:
     void input() {
+        cout << "LAYANG-LAYANG" << endl;
+        cout << "Diagonal 1: ";
         
     }
+
+    
 };
