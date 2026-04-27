@@ -17,3 +17,7 @@ public:
     }
     friend double hitungKeliling(LayangLayang);
 };
+
+class BelahKetupat {
+    
+};
