@@ -8,7 +8,9 @@ class LayangLayang {
     void input() {
         cout << "LAYANG-LAYANG" << endl;
         cout << "Diagonal 1: ";
-        
+        cin >> diagonal1;
+        cout << "Diagonal 2: ";
+        cin >> diagonal2;
     }
 
     
